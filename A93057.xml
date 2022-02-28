@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A receipt for the state-palsie. Or, A direction for the setling the government of the nation: delivered in a sermon upon Proverbs 25.5. By S.S.</title>
+            <author>Shaw, Samuel, 1635-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93057</idno>
+            <idno type="STC">Wing S3043</idno>
+            <idno type="STC">Thomason E1015_4</idno>
+            <idno type="STC">ESTC R208172</idno>
+            <idno type="EEBO-CITATION">99867149</idno>
+            <idno type="PROQUEST">99867149</idno>
+            <idno type="VID">168773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168773)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A receipt for the state-palsie. Or, A direction for the setling the government of the nation: delivered in a sermon upon Proverbs 25.5. By S.S.</title>
+                  <author>Shaw, Samuel, 1635-1696.</author>
+               </titleStmt>
+               <extent>[8], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Mortlocke at the Phœnix in Pauls Church-yard, neer the Little North-door,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLX. [1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>S.S. = Samuel Shaw.</note>
+                  <note>Annotation on Thomason copy: "Feb: 2. 1659"; the 'X' in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XXV, 5 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168773:1" rendition="simple:additions"/>
+            <p>A RECEIPT FOR THE State-Palſie.</p>
+            <p>OR, A Direction for the Setling THE GOVERNMENT OF THE NATION: Delivered in a Sermon upon <hi>Proverbs</hi> 25. 5.</p>
+            <p>By <hi>S. S.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Mortlocke</hi> at the Phoenix in <hi>Pauls</hi> Church-yard, neer the Little North-door. <hi>MDCLX.</hi>
+            </p>
+            <pb facs="tcp:168773:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168773:2"/>
+            <head>TO THE Supremacy, &amp; Magiſtracy OF ENGLAND</head>
+            <opener>
+               <salute>Sirs,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is preſumed that yee ought, &amp; it is hoped that ye do know how, and when to draw, and wield the ſword, which God hath put into your hands; But it is certain, and ſad, that it hath long lain ruſting in the ſcabbard of partiality, eaſe, and error; inſo<g ref="char:EOLhyphen"/>much that not only your perſons begin to be diſhonoured, but even ſo much of God as is in you, your Authority, begins to lie under the foot of pride and petulancy, God hath been emptying you from veſſel to veſſel; he ſeems to be almoſt ready to pour
+<pb facs="tcp:168773:3"/> you out upon the ground, becauſe you will not be purified from your lees: He hath been looſning you a good while, and he ſeems to have a good mind to knock you off, becauſe you have not as yet done that vindication to his name, which the verieſt <hi>Moſes</hi> of you all would have done to your own, if ſo blaſphemed. And certainly, however you may create to your ſelves ſome carnal crutches for a time, and pro<g ref="char:EOLhyphen"/>miſe your ſelves ſettlement upon them, yet though you were as the ſignet upon Gods right hand, hee will pull you thence; and if you will not by the ſword of Juſtice revenge the quarrel of Gods co<g ref="char:EOLhyphen"/>venant upon wicked men, he will ſend a ſword which ſhall revenge it, both upon them and you. Your coldneſs and par<g ref="char:EOLhyphen"/>tiality have made you changeable, your change (with many) hath made you ridi<g ref="char:EOLhyphen"/>culous, and if you ſtill go on to neglect what is the very eſſence of your duty, and notwithſtanding your changes, yet will not fear God, he will never leave emptying <note place="margin">Hodie mih<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ju<g ref="char:EOLhyphen"/>piter eſto, Cras mihi truncus e<g ref="char:EOLhyphen"/>ris.</note> you, till hee have changed you from the
+<pb facs="tcp:168773:3"/> clouds to the clods, from the Throne to the dung-hill, from a temporary Authority to an eternal calamity. Which that it may be ſeaſonably prevented, and that you <hi>Gods,</hi> may become all of you the <hi>Sons of the moſt High,</hi> both in the execution of Juſtice here, and in the fruition of eternal Crowns hereafter, is the ſole intend<g ref="char:EOLhyphen"/>ment of theſe printed pains, and the con<g ref="char:EOLhyphen"/>tinuall breathing of</p>
+            <closer>
+               <signed>Your Servant in the Lord.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168773:4"/>
+            <head>TO THE Sober Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was rightly obſerved, <hi>Rarus eſt faelix, idem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſenex,</hi> It is hard to bee great and live long. We in <hi>England</hi> have had large experience of the unſettledneſs of Government, and the daily rotation of our Gover<g ref="char:EOLhyphen"/>nours, inſomuch that the Crown hath hardly given time, to any of late years that wore it, to give Judgement, whe<g ref="char:EOLhyphen"/>ther it fit the head or no. With much ado many have gone up to the Throne, only to come down again; and the Go<g ref="char:EOLhyphen"/>vernment of the Nation may be put into the Proverb with <hi>Seianus his horſe,</hi> that was ſtill unfortunate to his rider.</p>
+            <pb facs="tcp:168773:4"/>
+            <p> So that if we would ſoon be rid of a man, it is but bidding him (as God bade <hi>Moſes) Get thee up into this Mountain</hi> (of Supremacy) <hi>and die there.</hi> Which thing, although it bee the ſport of many ambitious Spirits, who are ſtill hoping their turn may bee next; and the merriment of many reſt wits, who love to Pamphlet out the judgements of God upon the Nation, and put our afflictions into tune; and the fartheſt end of the thoughts of others, who obſerve not the <hi>operation of Gods hands:</hi> yet certainly ought to lie neer the hearts of all Gods people, and bee a fit occaſion unto our Gover<g ref="char:EOLhyphen"/>nours and Magiſtrates, to examine what <hi>Jonah</hi> is the lading of the ſhip, that wee labour under ſuch renewed ſtorms, and to caſt him out. For the one
+<pb facs="tcp:168773:5"/> and the others ſake, I have publiſhed <hi>Solomons</hi> Verdict in the caſe, finding it ſo applicable to our ſelves. Thou wilt ſee in the following diſcourſe, <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> unſettlement, ſettling it ſelf up<g ref="char:EOLhyphen"/>on its own bottom, and owning its own Mother, (which is alſo its Nurſe) e<g ref="char:EOLhyphen"/>ven the not taking away of the wicked. I intended to ſpeak truly, not finely, Scripture, not phraſes, oracles, not mi<g ref="char:EOLhyphen"/>racles: And therefore wiſh only this, conſent to the Sermon, thy prayers for the Preacher, and thy beſt help (in what thou canst) towards the taking away of the wicked, that the Throne may be eſtabliſhed in righteouſneſs.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168773:5"/>
+            <head>A Receipt for the State-Palſie. OR, <hi>A Direction for the ſettling the Go<g ref="char:EOLhyphen"/>vernment of the Nation.</hi>
+            </head>
+            <epigraph>
+               <bibl>PROV. 25. 5.</bibl>
+               <q xml:lang="heb">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q>
+               <q>Take away the wicked from before the King, and his Throne ſhall bee eſtabliſhed in Righteouſneſs.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt all the felicities which the ſons of men lay out their care, and pains, and intereſts about, there is nothing either more diligently ſought, or more rarely found, than ſtability, and ſettlement; (for there goes more art to the preſerving, than to the procuring of our comforts) Inſomuch that the revolution of
+<pb n="2" facs="tcp:168773:6"/> a year, doth hardly preſent us with ſo many new Moons, as new changes in things ſublunary; it be<g ref="char:EOLhyphen"/>ing a very ſtale condition, that is the ſame a month together. Amongſt other uncertainties, the inſta<g ref="char:EOLhyphen"/>bility of Power and Government in the world, is worth our obſervation, and worth the pains of a <note place="margin">Saepius <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> agitatur ingens Pinus, &amp; celſae graviore caſu decidunt turres, feriuntque ſum<g ref="char:EOLhyphen"/>mos Fulmina montes. <hi>Hor.</hi>
+               </note> Sermon (if it might be) to cure it. The un<g ref="char:EOLhyphen"/>ſettling winds have ſuch a ſpight againſt the tall Cedars, and the diſtracting Thunder-bolts ſuch a deſign upon the lofty Mountains, and Thrones themſelves lightly are ſo weakly propt, that we may juſtly admire, if not bewayl,</p>
+            <q xml:lang="lat">—Heu quam nulla potentia longa eſt!</q>
+            <p>As for our own parts, Providence hath ſo ſported it ſelf with our greateſt conditions here in <hi>England</hi> for a long time, that it begins to be an obſervation, that exaltation is the neereſt cut to annihilation; and to bee preferred, is the next way not to bee: And in deſpight of all Grammarians, it is become a proper phraſe, to <hi>aſcend downward,</hi> to <hi>climbe to the ground;</hi> 
+               <note place="margin">Qui jacet in terram, non ha<g ref="char:EOLhyphen"/>bet unde cadat.—bene qui latu<g ref="char:EOLhyphen"/>it, bene vixit.—</note> whereas they onely ſit ſafe, that ſit ſtill; and he only that lies upon the ground, is as firm as the ground hee lies on. <hi>Solomon</hi> long ſince ob<g ref="char:EOLhyphen"/>ſerved the uncertaintie of power, and of all other things below, and hee hath once and again gone a<g ref="char:EOLhyphen"/>bout the cure, and preſcribed means to that end. One Receipt for the cure of this <hi>State-palſie,</hi> wee have in the words here, <hi>Take away the wicked from before the King, and his Throne ſhall bee establiſht in righteouſneſs.</hi>
+            </p>
+            <p>It is ſaid, that the great Turk hath a Receipt proper to himſelf; hee rivets himſelf to his Chair of State, the firſt time hee ſits in it, with the bones
+<pb n="3" facs="tcp:168773:6"/> of his murdered Brethren. But this of <hi>Solomon</hi> here, is a more honeſt and effectual way: Hee is likelieſt to ſit faſt in his Throne, who rivets him<g ref="char:EOLhyphen"/>ſelf thereunto with the bones of executed Ma<g ref="char:EOLhyphen"/>lefactors; <hi>Take away the wicked from before the King, and his Throne ſhall bee eſtabliſhed in righteouſneſs.</hi>
+            </p>
+            <p>
+               <label>Explication.</label> Firſt, Let us ſee the meaning of the Terms of the Text.</p>
+            <p>
+               <hi>Take away]</hi> The word in the Original <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is not an Imperative, enjoining a duty, but an Infini<g ref="char:EOLhyphen"/>tive, (which ought to be tranſlated by a Gerund in <hi>do, Auferendo)</hi> preſcribing a means for the ac<g ref="char:EOLhyphen"/>compliſhing of ſome end. The word ſignifies, to remove or ſeparate; and does not onely import death, but other kinds of puniſhment, as baniſh<g ref="char:EOLhyphen"/>ment, impriſonment, confiſcation, pecuniary mulcts, and any of thoſe waies whereby wickedneſs ought to bee reſtrained, and puniſhed, according to the na<g ref="char:EOLhyphen"/>ture of the fault.</p>
+            <p>
+               <hi>The wicked)</hi> The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies an un<g ref="char:EOLhyphen"/>quiet, turbulent perſon, and ſo a wicked perſon in general, whether erroneous or prophane. Whe<g ref="char:EOLhyphen"/>ther you take the word in the one ſenſe or the o<g ref="char:EOLhyphen"/>ther, in the Original or in the Derivative ſignifica<g ref="char:EOLhyphen"/>tion, for turbulent, or for wicked perſons, it ſtill holds, that all ſuch muſt be taken away in order to an happy ſettlement of a Kingdom.</p>
+            <p>
+               <hi>From before]</hi> The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> does not imply, that wicked men muſt onely bee reſtrained in the preſence of the King: But although they muſt be univerſally taken away where-ever they be, yet more eſpecially in his preſence; ſuch muſt not be
+<pb n="4" facs="tcp:168773:7"/> of his Councill, his Family, or Familiarity: They muſt bee taken away out of the Country, but e<g ref="char:EOLhyphen"/>ſpecially out of the Court. <hi>David</hi> reſolved to <hi>deſtroy all the wicked of the Land,</hi> hee would <hi>cut off all wicked doers from the City of the Lord;</hi> but eſpe<g ref="char:EOLhyphen"/>cially hee would rid his houſe of them that <hi>worked deceit,</hi> Pſal. 101. 7, 8.</p>
+            <p>
+               <hi>The King]</hi> That is, not onely the perſon of the King, but by a <hi>Synecdoche ſpeciei,</hi> All Magi<g ref="char:EOLhyphen"/>ſtrates.</p>
+            <p>
+               <hi>His Throne]</hi> That is, by a <hi>Metonymy of the Ad<g ref="char:EOLhyphen"/>junct,</hi> his Kingdom, Power, Authority, Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>Shall be eſtabliſhed in righteouſneſs]</hi> The word <hi>[righteouſneſs]</hi> may either bee underſtood of holi<g ref="char:EOLhyphen"/>neſs and uprightneſs; hee ſhall have a holy King<g ref="char:EOLhyphen"/>dom: or elſe righteouſneſs is put for peace and proſperity; as it is uſed, <hi>Hoſ.</hi> 10. 12. for a ſettled and compoſed State, as it is to be underſtood, <hi>Iſa.</hi> 48. 18.</p>
+            <p>The words being thus explained, may be thus divided.
+<list>
+                  <item>1 <hi>An end propounded,</hi> viz. the ſettlement of a Kingdom.</item>
+                  <item>2 <hi>The means preſcribed,</hi> i. e. The taking away of the wicked.</item>
+               </list>
+            </p>
+            <p>Being thus divided, they will afford this natural obſervation.</p>
+            <p>
+               <hi>It conduces much to the ſettlement of the Govern<g ref="char:EOLhyphen"/>ment of a Nation, that wicked men be puniſhed by the Civil Magiſtrate.</hi>
+            </p>
+            <p>Before I proceed to proſecute this Obſervati<g ref="char:EOLhyphen"/>on, it will be needful to premiſe a few Rules, that
+<pb n="5" facs="tcp:168773:7"/>
+               <note place="margin">Rules premiſed Rule 1.</note> ſo I may not bee taken off to do it in my diſcourſe.</p>
+            <p n="1">1 That <hi>it is the duty of Civil Magiſtrates to bring wicked men to condign ſhame and puniſhment.</hi> This is ſecretly couched in the words, and elſewhere ex<g ref="char:EOLhyphen"/>preſly taught, as I ſhall ſhew hereafter.</p>
+            <p n="2">2 That (notwithſtanding) <hi>wicked men are to bee differently dealt with, according to the different nature, and degrees of their ſins.</hi> This taking away here, is not meant by <hi>Solomon,</hi> nor expounded by the Learned, of inflicting death upon all Offenders, but of diſcouragements and puniſhments of a low<g ref="char:EOLhyphen"/>er nature, bearing proportion to the dimenſions of the fault, as I hinted before.</p>
+            <p n="3">3 <hi>It conduces much to the honour,</hi> as well as to the ſettlement <hi>of a Nation, to have the wicked thus taken away;</hi> to have the <hi>droſs</hi> purged, the <hi>chaff</hi> winnowed, the <hi>tares</hi> ſeparated; for by ſuch names the Scripture gives us to underſtand wicked men. This appears plainly by <hi>Solomons</hi> compariſon here in the verſe foregoing the Text. As it is for the profit and credit of the Finer to take away the droſs; there will come forth, not onely a precious veſſel, but a veſſel of honour for him: ſo it is not onely for the gain, but for the glory; not on<g ref="char:EOLhyphen"/>ly for the eſtabliſhment, but alſo for the Orna<g ref="char:EOLhyphen"/>ment of a Nation, that the wicked bee taken a<g ref="char:EOLhyphen"/>way from before the King. Wicked <hi>Jeroboam,</hi> whom God raiſed from the Dung-hill, is compa<g ref="char:EOLhyphen"/>red to dung, defiling the Chair of State, and ther<g ref="char:EOLhyphen"/>fore God took him away, 1 <hi>Kings</hi> 14. 10. Wicked Subjects are as dung, defiling the glory of a Na<g ref="char:EOLhyphen"/>tion, and therefore let them be taken away. As God took away the dung-hill King, ſo let the King
+<pb n="6" facs="tcp:168773:8"/> take away the dung-hill Subjects, and it will con<g ref="char:EOLhyphen"/>duce to the honour of his Kingdom.</p>
+            <p n="4">4 <hi>It is a duty incumbent upon Miniſters alſo, as well as upon Magiſtrates, in their places to take away the wicked;</hi> i. e. To diſcern, diſcriminate, ſeparate, <hi>declaratively</hi> by the preaching of the Word, and <hi>executively</hi> by Church-cenſures. See for this the Apoſtle treating about the inceſtuous <hi>Corin<g ref="char:EOLhyphen"/>thian,</hi> 1 Cor. 5. There are many and juſt com<g ref="char:EOLhyphen"/>plaints of the unſettledneſs of Church-govern<g ref="char:EOLhyphen"/>ment: I wiſh the work bee not obſtructed through the neglect of the thus taking away of the wicked, by the deſuetude of Church-diſcipline. For my own part, I am as ſorry that the wicked are not thus ſeparated, as I am ſure that there are too many wicked ſeparations amongſt us; and I fear, for the want of this. God doth, as a judgement upon the Church of <hi>England,</hi> give up men to diſ<g ref="char:EOLhyphen"/>orderly ſeparations from us, for want of our juſt ſeparating them from our ſelves, by the judge<g ref="char:EOLhyphen"/>ment and cenſure of the Church. God ſuffers that to bee done ſinfully and diſorderly, the order<g ref="char:EOLhyphen"/>ly doing of which is neglected. Whoſe doors this neglect may bee laid at, I know not; but ſure I am, that God ſharply reproves and threatens the Angels of the Churches of <hi>Pergamos</hi> and <hi>Thyatira</hi> for ſuch a like fault, <hi>Rev.</hi> 2. 14, 15, 20. Nay for a leſs fault: for whereas it is ſaid there, that God had a few things againſt the Church of <hi>Pergamos,</hi> becauſe ſhee had there them that held <hi>the Doctrine of Balaam,</hi> and alſo them that held <hi>the Doctrine of the Nicolaitans;</hi> It may be ſaid of us, that wee have them that hold the doctrine of Papiſts, with
+<pb n="7" facs="tcp:168773:8"/> many <hi>Alſoes; Alſo</hi> them that hold the Doctrine of the Anabaptiſts, <hi>alſo</hi> of the Browniſts, <hi>alſo</hi> of the Arminians, <hi>alſo</hi> of the Socinians, <hi>alſo</hi> of the Quakers, and <hi>alſo</hi> almoſt every doctrine that God hates. Therefore God hath many things a<g ref="char:EOLhyphen"/>gainſt us; and I fear, that therefore the Pulpit, no more than the Throne, is eſtabliſhed, becauſe the wicked are not taken away, ſeparated by Church-cenſure.</p>
+            <p>Theſe things being premiſed, wee will fetch ſtrength from Scripture, and Reaſon, to confirm the poſition laid down, that <hi>it conduces much to the Settlement of the Government of a Nation, that wicked men be puniſhed by the Civil Magiſtrate.</hi>
+            </p>
+            <p n="1">
+               <note place="margin">Confirmation from Scripture.</note> 1 From Scripture. See it almoſt in ſo many words, <hi>Prov.</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9. 4. <hi>The King by judgement esta<g ref="char:EOLhyphen"/>bliſheth the Land.</hi> As great houſes are eſtabliſhed by leaning upon their Pillars, ſo a Nation is eſta<g ref="char:EOLhyphen"/>bliſhed and preſerved by judgement: As <hi>David</hi> ſaith, that by the pure Adminiſtration of Juſtice, hee bore up the Pillars of the earth, <hi>Pſal.</hi> 75. 3. Upon theſe two, <hi>Jachin</hi> and <hi>Boaz,</hi> Religion on the right hand, and Juſtice on the left, doth a King<g ref="char:EOLhyphen"/>dom or Common-wealth ſtand: Nay the earth (as ſtable as it is, <hi>Eccleſ.</hi> 1. 4.) is ſaid to bee e<g ref="char:EOLhyphen"/>ſtabliſhed by the due execution of Juſtice, <hi>viz.</hi> When it brings forth abundant fruit, and ſuſtains the lives of the inhabitants, that do depend upon its increaſe, as upon a Foundation: See <hi>Pſal.</hi> 72. 1, 2, 3. Would you have a Throne eſtabliſhed in righteouſneſs? It muſt be by righteouſneſs that it muſt be ſo eſtabliſhed, <hi>Prov.</hi> 6. 12. Now the execu<g ref="char:EOLhyphen"/>tion of judgement upon the wicked, is accounted
+<pb n="8" facs="tcp:168773:9"/> righteouſneſs, <hi>Pſal.</hi> 106. 30, 31. But</p>
+            <p n="2">2 Reaſon will contribute ſomething towards the eſtabliſhment of this truth, That <hi>It conduces much to the Eſtabliſhment of the Government of a Nation, that wicked men bee puniſhed by the Civil Magi<g ref="char:EOLhyphen"/>ſtrate.</hi>
+            </p>
+            <p>Reaſon forms theſe following Arguments for it.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>1</label> 1 It appears, that It conduces much to the Settlement of the Government of a Nation, that the wicked bee puniſhed by the Civil Magiſtrate, in that <hi>The toleration of wicked men is found to have troubled and diſturbed the Affairs and State of a Nati<g ref="char:EOLhyphen"/>on.</hi> And the Argument will be Logically this, <hi>Quo lapſo aedificium ruit, illud eſt ſtabilimentum aedificii, ſed neglectâ juſtitiâ collabuntur Reſp: Ergo juſtitia eſt Reip: ſtabilimentum.</hi> If Kingdoms and Commonwealths be diſturbed and diſſolved by the taking away of Juſtice, then they are preſerved and eſtabliſhed by the juſt taking away of the wicked. But, &amp;c.</p>
+            <p>
+               <hi>Achan</hi> not taken away, though as yet not con<g ref="char:EOLhyphen"/>victed, troubled the whole Camp of <hi>Iſrael,</hi> Joſh. 7. <hi>Sauls</hi> partiality in ſparing what God had de<g ref="char:EOLhyphen"/>voted, and ſin had expoſed to ruine, diſſolved his Kingdome, 1 <hi>Sam.</hi> 15. 26. It was <hi>Jehoiakim</hi>'s not imitating the juſt proceedings of his Father <hi>Joſiah,</hi> that ſtript him of his Royal Robes; and his not removing the wicked from before him (accord<g ref="char:EOLhyphen"/>ing to the Advice here given) cauſed the King<g ref="char:EOLhyphen"/>dome of <hi>Judah</hi> to bee removed out of Gods ſight, 2 <hi>Kings</hi> 24. 3. compared with <hi>Jer.</hi> 22. 15. <hi>&amp;c.</hi> But what need I fetch inſtances ſo far off? Do not our own long and ſad diſtractions ſufficiently exem<g ref="char:EOLhyphen"/>plify
+<pb n="9" facs="tcp:168773:9"/> this? We have many known Malefactors, that have plundered more than the worth of <hi>a Ba<g ref="char:EOLhyphen"/>byloniſh Garment, a wedge of gold, and two hundred Shekels of ſilver,</hi> and things as ſacred, as thoſe were curſed, and yet not a ſtone caſt at them. We have ſpared and tolerated bleating Hereticks, un<g ref="char:EOLhyphen"/>der the pretence of piety and good devotion, as <hi>Saul</hi> did the Sheep for ſacrifice forſooth: And doth any one ask why we are unſettled in our Go<g ref="char:EOLhyphen"/>vernment? And if wee ſtill go on to ſpare, and ſend away with Covenants, and I know not what, thoſe whom the Lord hath appointed to utter de<g ref="char:EOLhyphen"/>ſtruction, wee may juſtly fear the juſt doom of <hi>A<g ref="char:EOLhyphen"/>hab</hi> diſmiſſing <hi>Benhadad,</hi> 1 King. 20. 42. <hi>Life for life, and people for people.</hi>
+            </p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>2</label> 2 It appears, In that <hi>They of all others, have had the moſt ſettled Kingdomes, that have had a care to takeaway the wicked from before them.</hi> See <hi>Davids</hi> care in this thing, beſt deſcribed by himſelf, <hi>Pſal.</hi> 75. and <hi>Pſal.</hi> 101. And who faſter in his Throne than <hi>David,</hi> whom God nailed therein, 2 <hi>Sam.</hi> 7. 16? <hi>Solomon</hi> in the twilight of his Royalty, being the juſt Son of a juſt Father, took away the ambitious <hi>Adonijah,</hi> the murderous <hi>Joab,</hi> and the peſtilent <hi>Shimei</hi> from before himſelf: And it follows there<g ref="char:EOLhyphen"/>upon, <hi>The Kingdom was eſtabliſhed in the hands of</hi> Solomon, 1 <hi>King.</hi> 2. <hi>ult. Joſiah</hi> ſucceeded both theſe in the ſame grace, <hi>He did judgement and juſtice;</hi> And <hi>it was well with him,</hi> Jer. 22. 15. His eies ſaw not the diſſolution of the Jewiſh ſtate, 2 <hi>King.</hi> 22. <hi>ult. Phinehas</hi> the Son of <hi>Eleazer, executed judge<g ref="char:EOLhyphen"/>ment,</hi> Pſal 106. 30. And therefore hee had the like Settledneſs in his Government Eccleſiaſtical, <hi>The</hi>
+               <pb n="10" facs="tcp:168773:10"/> 
+               <hi>Covenant of an everlaſting Prieſthood,</hi> Numb. 25. 13.</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Argument </seg>3</label> 3 It appears, that it conduces much to the ſet<g ref="char:EOLhyphen"/>tlement of the Government of a Nation, that the wicked be puniſhed by the Civil Magiſtrate, in that <hi>this is the very execution of the Magiſterial office, as it is committed to them by God.</hi> So to do, is to diſ<g ref="char:EOLhyphen"/>charge that Office aright; And that muſt needs bring a bleſſing with it. It is of the eſſence of a Kingly office, What? To live delicately, idly, lux<g ref="char:EOLhyphen"/>uriouſly; to oppreſs, inſult, tyrannize, according to the corrupt manner of Kings, ſpoken of, 1 <hi>Sam.</hi> 7? No, but to <hi>ſcatter away evil</hi> with their eies, <hi>Prov.</hi> 20. 8. What is of the eſſence of the Office of Governours and Magiſtrates? How runs their Commiſſion from the hand of him that ſends them? To break the Laws that they command others to keep? To commit things worthy of puniſhment, by getting into a power of puniſhing others? No, but they are ſent for the puniſhment of evil doers, 1 <hi>Pet.</hi> 2. 14. And certainly, the honeſt diſcharge of an employment before God, will conduce to a bleſſing thereupon: God will not diſ-commiſſion them that have been faithful in the Commiſſion that he gave them.</p>
+            <p>To which I might adde, that this grace Juſtice, is ſo conducible to the Settlement of the Govern<g ref="char:EOLhyphen"/>ment of a Nation, that even the very picture, the very counterfeit of it, hath ſome tendency this way. <hi>Jehu</hi> in raging againſt the accurſed family of <hi>Saul,</hi> hath a leaſe of the Throne for four lives, 2 <hi>King.</hi> 10. 30. Now if the ſhadow of Juſtice do nail an Hypocrite in his Throne, ſurely the grace it ſelf will clench the righteous man, and the righteous
+<pb n="11" facs="tcp:168773:10"/> powers in their Government: If the unrighteous executing of a righteous command be of ſuch ſtrength; of what ſtrength ſhall wee imagine the righteous executing of unrighteous men to bee?</p>
+            <p>But not to multiply Arguments in ſo clear a truth, nor to fetch more of reaſons crutches to ſup<g ref="char:EOLhyphen"/>port a Doctrine which hath Scripture for its Foundation; let us ſee the grounds or reaſons why it conduces much to the ſettlement of the Go<g ref="char:EOLhyphen"/>vernment of a Nation, that wicked men bee ta<g ref="char:EOLhyphen"/>ken away by the Civil Magiſtrate? And theſe I ſhall deliver out rather by weight than number.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> 1 It conduces much to the ſettlement of the Government of a Nation, that wicked men bee puniſhed, ſuppreſſed, diſperſed, and taken away by the Civil Magiſtrate, becauſe <hi>wicked men, men that are not restrained by any conſcience of their duty, will be the readieſt to disturb the peace of a Nation, and to make defections, if any encouragement be admini<g ref="char:EOLhyphen"/>ſtred, if any hope of gain, or fear of ſuffering do appear.</hi> They are the moſt dangerous members of a King<g ref="char:EOLhyphen"/>dom or Common-wealth. They are Traytors and enemies <hi>diſpoſitively</hi> at all times, and will be <hi>actually</hi> in time, if they be ſuffered. There wants nothing to make <hi>Hazael</hi> a murderer of his Maſter, but a wet cloth; nothing to make <hi>Abſolom</hi> a delinquent from his Father, but a little intereſt in the peo<g ref="char:EOLhyphen"/>ples hearts: which when the one and the other have got, they ſoon execute their treacherous and diſ<g ref="char:EOLhyphen"/>loyal intentions. The beſt men are the beſt ſub<g ref="char:EOLhyphen"/>jects, whoſe conſciences do ingage them to the ob<g ref="char:EOLhyphen"/>ſervance of the Apoſtles Rule, <hi>Rom.</hi> 13. 1. But
+<pb n="12" facs="tcp:168773:11"/> as for men of wicked principles, who onely give an eye-ſervice, and think that whilſt they keep their Swords within the ſcabbards, they have com<g ref="char:EOLhyphen"/>mitted no Murder, it is not ſafe to truſt them, nay nor to ſuffer them: But rather to execute them, before they can execute their wicked diſpoſitions: For being men of graceleſs Principles, they will be alſo of faithleſs practices, and will mercenarily fol<g ref="char:EOLhyphen"/>low <hi>Abſolom,</hi> or <hi>Adonijah,</hi> or any one that puts up finger, that blows the trumpet to them.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> 2 Suppoſe wicked men ſhould be faithful, and ſhould machinate nothing towards the diſturbance of a Nations Government (which yet it is ten to one but they will, for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>improbi,</hi> are alſo <hi>irrequieti)</hi> yet <hi>their very being in a Nation proves oft-times deſtructive to the being (or at leaſt the wel-being) of the Nation wherein they are: their very preſence is deſtructive to peace and ſettlement.</hi> As God could doe nothing againſt <hi>Sodome,</hi> whilſt <hi>Lot</hi> was there, <hi>Gen.</hi> 19 22. ſo hee would doe nothing for the Camp of <hi>Iſrael</hi> whilſt <hi>Achan</hi> was there, <hi>Joſh.</hi> 7. 12. the remainder of <hi>Saul's</hi> bloudy Fami<g ref="char:EOLhyphen"/>ly had like to have ſterv'd all <hi>Iſrael;</hi> they had no<g ref="char:EOLhyphen"/>thing but Famines year after year, till the hand of Juſtice had revenged the bloud of the <hi>Gibeonites</hi> upon their heads, 2 <hi>Sam.</hi> 21. 1, 14. And if it be true what <hi>Solomon</hi> ſaies, <hi>Prov.</hi> 11. 11. that even by wicked words a City is deſtroyed; it muſt needs be as I ſay, that by wicked works it is di<g ref="char:EOLhyphen"/>ſturb'd and diſſetled. By not puniſhing the guilty, a Nation devolves a guilt upon it ſelf; and hence it comes to paſs, that many times by ſuffering one ſinner, many come to ſuffer. Bee wicked men ne<g ref="char:EOLhyphen"/>ver
+<pb n="13" facs="tcp:168773:11"/> ſo faithful, never ſo free from deſigns, yet their very preſence is deſtructive; and therefore ought they to bee taken away in order to an happy ſettlement, an eſtabliſhment in righteouſneſs, ſuch an one as <hi>Solomon</hi> ſpeaks of here.</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> 3 Becauſe <hi>if wicked men bee not taken away, they will corrupt more.</hi> Wickedneſs not ſuppreſſed, will ſoon bee encreaſed; Sin unpuniſhed, will ſoon become ſin multiplied. If by the due execution of Juſtice, the droſs bee not ſeparated from the ſil<g ref="char:EOLhyphen"/>ver, the ſilver will become droſs, or at leaſt very droſſie. <hi>Jeruſalem</hi> was ſometimes <hi>full of judgement,</hi> but that decayed, And what follows? <hi>The ſilver is become droſſe,</hi> Iſa. 1. 21, 22. <hi>Know yee not that a little leaven leaveneth the whole lump,</hi> 1 Cor. 5. 6? Wicked men unpuniſht doe propagate their wick<g ref="char:EOLhyphen"/>edneſs, and doe corrupt both the <hi>religious</hi> and <hi>civil</hi> manners of many others, make them naught both towards God and Superiours. The inceſtuous <hi>Co<g ref="char:EOLhyphen"/>rinthian,</hi> if not taken away, was likely in the A<g ref="char:EOLhyphen"/>poſtles apprehenſion, to encourage many to com<g ref="char:EOLhyphen"/>mit inceſt. And as for mens obedience, ſubmiſſi<g ref="char:EOLhyphen"/>on, and loyalty towards Superiours, daily experi<g ref="char:EOLhyphen"/>ence tells us, how much it is corrupted by the im<g ref="char:EOLhyphen"/>punity of others. Who would not be a Rebel, if rebellious <hi>Abſolom</hi> muſt bee ſpared? Certainly <hi>David</hi> acted the Father, more than the King in that buſineſs. As the Aſſes doom in the Fable taught the Fox to divide the Prey aright to his Soveraign; ſo on the other hand, the ſafety and impunity of many wicked Subjects, teaches many Foxes to make a Prey of their Soveraigns; who afterward will not ſtick to inſult over them, with
+<pb n="14" facs="tcp:168773:12"/> the Gregarian Souldier, that kill'd the edge-tool Emperour, <hi>Peris gladio quem ipſe feciſti.</hi> Not to take away the Traytor is to hatch Treaſon, or at leaſt to make a Neſt for it; not to puniſh diſobedi<g ref="char:EOLhyphen"/>ence and diſloyalty committed, is to encourage to the commiſſion of it; therefore the Poet con<g ref="char:EOLhyphen"/>cludes upon good reaſon,</p>
+            <q xml:lang="lat">—Immedicabile vulnus Enſe recidendum, ne pars ſincera trahatur.</q>
+            <p>And I conclude with this third and laſt reaſon, that therefore it conduces much to the ſettlement of the Government of a Nation, that wicked men be puniſht by the Civil Magiſtrate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objections </seg>
+               </label> But here comes to be pretended <hi>Nobleneſs,</hi> and <hi>Pitty,</hi> and I know not what.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 1 To which is eaſily anſwered, that that is true Nobleneſs that makes men like God, And he (we know) cannot abide to behold iniquity, and he is a Perſon of the greateſt honour who highly eſteems the Honour of the great God. Beſides, is it not an idle thing, to ſtand upon terms of Honour, and in the mean time to doe that which will certainly lay our honour in the duſt; as the toleration of wicked men undoubtedly will?</p>
+            <p n="2">2 As for <hi>Pitty,</hi> I ſtick not to ſay, 'tis fooliſh pitty. And <hi>Solomon</hi> (who knew well enough what was Wiſdom) will bear me out: for ſayes he, he is <hi>a wiſe King that ſcattereth the wicked, and bringeth the wheel ever them,</hi> Prov. 20. 26.</p>
+            <p>
+               <label>Object. 3. from Scripture.</label> Nay, that nothing may be forgotten which will encourage men to forget the execution of Juſtice, Scripture muſt be pretended too, eſpecially that, <hi>Mat.</hi> 13. concerning the tares in the Parable ſuf<g ref="char:EOLhyphen"/>fered to grow till Harveſt.</p>
+            <pb n="15" facs="tcp:168773:12"/>
+            <p> To which it may be eaſily anſwered.</p>
+            <p n="1">1 That that text is to be underſtood of ſecret and unveyled Hypocrites, not of ſcandalous and open ſinners.</p>
+            <p n="2">2 Suppoſe it to be meant of men of notorious and ſcandalous lives, yet when the Magiſtrate has uſed his utmoſt care and ſeverity, to pluck up the Tares, to take away the wicked, yet there will be enough left, to make good the Parable to the end of the world.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Applicat. </seg>
+               </label> For application.</p>
+            <p n="1">1 See here then the folly of the moſt of the Kings, Parliaments, Powers that are in the Chri<g ref="char:EOLhyphen"/>ſtian world. <hi>Solomon</hi> in one verſe convinces the moſt of them of a grand miſcarriage. <hi>Some</hi> think to eſtabliſh their Thrones by heaping together in<g ref="char:EOLhyphen"/>exhauſtible Treaſures, and to bee upheld by pil<g ref="char:EOLhyphen"/>lars of gold, as <hi>Ammon</hi> who <hi>truſted in their trea<g ref="char:EOLhyphen"/>ſures,</hi> ſaying, <hi>Who ſhall come up to us,</hi> Jer. 49. 4? <hi>Some</hi> think to preſerve themſelves by Pride, and high living, as <hi>Jehojakim,</hi> Jer. 22. 15. <hi>Some</hi> think to maintain their Power by oppreſſion, and tyran<g ref="char:EOLhyphen"/>ny, grievous burdens, and heavie impoſitions, as <hi>Pharaoh,</hi> Exod. 5. 9. and <hi>Rehoboam</hi> with his young Parliament, 1 <hi>King.</hi> 12. 14 <hi>Some</hi> think to keep out changes by Garriſons and ſtrong Holds, and impregnable Fortifications, as the <hi>Jewes</hi> and their King did, <hi>Iſa.</hi> 22. 8, 9, 10, 11. <hi>Some</hi> think to nayl themſelves to their Thrones, with the bones of all of the Bloud Royal, as <hi>Abimelech</hi> did, <hi>Judg.</hi> 9. 5. <hi>Some</hi> think to confirm themſelves either by a company of ſilly ignorant men, that will bee led blind-fold upon any deſign, as <hi>Abſolom,</hi> 2 Sam.
+<pb n="16" facs="tcp:168773:13"/> 15. 11. or vain, light, deſperate fellows, all whoſe religion it is to have caſt away all, as the fore<g ref="char:EOLhyphen"/>quoted <hi>Abimelech</hi> did, <hi>Judg.</hi> 9. 4. <hi>Some</hi> think to carry all with many Regiments, as <hi>Amaziah</hi> with his three hundred thouſand, 2 <hi>Chron.</hi> 25. <hi>Some</hi> think to ſtand upon the leggs of others, and to bee eſtabliſhed by confederate Princes, and Leagues with their neighbour Kings, as <hi>Jabin</hi> King of <hi>Hazor</hi> did, <hi>Joſh.</hi> 11. 1. <hi>Some</hi> think to ſtand upon the heads of others, and to bee ſafe in the multitude of Counſellours, and Politicians, as <hi>Abſolom,</hi> making <hi>Achitophel</hi> of his counſel, 2 <hi>Sam.</hi> 15. <hi>Others</hi> think that the goodneſs of their Titles will defend them, their Crowns are made of <hi>good and lawful gold,</hi> and therefore they muſt needs ſtick faſt to their heads. Many other props doe many Thrones in the world lean upon. But <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> whoſe Crown God put on, and Juſtice kept on, preſcribes to all Kings and Powers whate<g ref="char:EOLhyphen"/>ver, a better foundation than any of theſe, and it is here in my text. Be not deceived, it is not the taking of wicked waies, but the taking of the wick<g ref="char:EOLhyphen"/>ed away, that will eſtabliſh Thrones in righte<g ref="char:EOLhyphen"/>ouſneſs.</p>
+            <p n="2">2 See here one great cauſe of <hi>Englands</hi> unſet<g ref="char:EOLhyphen"/>tlement at this day. There are not more admira<g ref="char:EOLhyphen"/>tions at, than falſe conjectures concerning it. Some impute our changes to chances; ſome lay the fault upon the Court, ſome upon the Camp, ſome up<g ref="char:EOLhyphen"/>on the City, ſome upon the Country; nay ſome ſtick not to lay them at our Church doors, to im<g ref="char:EOLhyphen"/>pute them to the Clergie, ſaying, there was never good world ſince there was ſo much praying, and
+<pb n="17" facs="tcp:168773:13"/> preaching; being acted with a ſpirit like unto that of <hi>Ahab,</hi> who ſaid to the Prophet, 1 <hi>King.</hi> 18. 17. <hi>Art thou hee that troubleth Iſrael?</hi> although that were true directly, <hi>Evangelium ciet bellum.</hi> Others ſay ſomething but not the whole, that Factions doe create our Fractions: For if they were not tolerated, they would not be, or at leaſt they would not be ſo intolerable. But <hi>Solomon</hi> here pre<g ref="char:EOLhyphen"/>ſcribing the means of ſettlement, ſeemes to de<g ref="char:EOLhyphen"/>ſcribe to us the cauſe of our unſettlement, the not taking away the wicked. I know that oppreſ<g ref="char:EOLhyphen"/>ſion, uſurpation, ambition and other ſins are fore ſhakers of the Government of a Nation: And I know we have a compoſition of all theſe ingredients, and a complication of all theſe diſtempers; yet if one ſhould ask me what is the grand cauſe, the ſtron<g ref="char:EOLhyphen"/>geſt hand that thus rocks the Throne of <hi>England,</hi> and ſo keeps them that ſit in it from ſleeping in it, I ſhould fetch an anſwer from <hi>Solomon,</hi> The not taking away of the wicked, hinders the Throne of <hi>England</hi> from being eſtabliſht in righteouſneſs. <hi>What peace</hi> ſaid <hi>Jehu</hi> to <hi>Joram, ſo long as the whore<g ref="char:EOLhyphen"/>doms of thy mother</hi> Jezabel, <hi>and her Witchcrafts are ſo many?</hi> What peace, may one ſay to the Pow<g ref="char:EOLhyphen"/>ers, and Primates of <hi>England,</hi> ſo long as their Se<g ref="char:EOLhyphen"/>ctaries, Schiſmaticks, Hereticks are ſo many? What eſtabliſhment, ſo long as the wicked, erro<g ref="char:EOLhyphen"/>neous, perfidious, rebellious, ambitious, and trea<g ref="char:EOLhyphen"/>cherous are not taken away? <hi>Except theſe abide in the ſhip,</hi> ſaid <hi>Paul</hi> (ſpeaking of the Ship-men) <hi>yee cannot bee ſaved:</hi> except theſe bee taken away out of the ſame Ship the Common-wealth, wherein
+<pb n="18" facs="tcp:168773:14"/> we all ſayl, as in one common bottom, wee can<g ref="char:EOLhyphen"/>not be ſafe, nor ſetled. I doubt wee are not yet fit for ſettlement for a proſperous and compoſed State, becauſe the accurſed things, the wicked are not yet taken away. Some of our Governours have done worthy things, as ſome of the Kings of <hi>Iſrael</hi> did, but yet the People ſacrifice ſtill in the high places, every man is left to the free choice of his own God, and his own Religion, and there<g ref="char:EOLhyphen"/>fore the Throne is not yet eſtabliſhed in righteouſ<g ref="char:EOLhyphen"/>neſs. One may weep over <hi>Englands</hi> ſhakings, and ſay to it, as the Prophet ſometimes to <hi>Iſrael, O</hi> 
+               <note place="margin">Iſa. 48. 18</note> 
+               <hi>that thou hadſt hearkned to Gods Commandements! Then had thy peace been as a river, and thy righteouſ<g ref="char:EOLhyphen"/>neſs as the waves of the ſea;</hi> i. e. for duration, whereas now wee are as the waves, toſſed to and fro.</p>
+            <p>The ſecond Uſe would bee to exhort and ex<g ref="char:EOLhyphen"/>cite <note place="margin">Rom. 13. 3</note> all Magiſtrates, not to <hi>bear the ſword in vain,</hi> but to uſe it, for the terror of evil doers, as the Apoſtle phraſeth it, or to take away the wicked from before them, as <hi>Solomons</hi> phraſe is here. What need I more Motives? Therefore are wee emptied from veſſel to veſſel, becauſe the wicked ſit ſtill upon their lees: Therefore does <hi>England</hi> lye bleeding, becauſe the Sword of Juſtice does not revenge Gods Cauſe upon the bloud of the wicked.</p>
+            <p>The third Uſe would comfort all thoſe, that doe earneſtly and ſeriouſly endeavour the extir<g ref="char:EOLhyphen"/>pation, and ſeparation of the wicked, according to their power, place, and intereſt, although they
+<pb n="19" facs="tcp:168773:14"/> cannot effect it according to their endeavour. To theſe I ſay, concerning the ſeparation of the wicked, what God the Father ſaid to God the Son, concerning the gathering of <hi>Iſrael,</hi> Iſa. 49. 5. Though the wicked bee not ſeparated, yet they ſhall be glorious. Of ſuch a man I will ſay, as God ſaies of <hi>David,</hi> Though the Crown of <hi>England</hi> be not eſtabliſhed, yet <hi>upon himſelf ſhall his crown flou<g ref="char:EOLhyphen"/>riſh:</hi> though the Scepter of <hi>England</hi> ſhake, yet hee ſhall bee faſtned <hi>as a nayl in a ſure place.</hi> But as for all erroneous, idle, fearful Magiſtrates, that are not a terrour to evil-doers, I doe denounce a<g ref="char:EOLhyphen"/>gainſt ſuch, that God will one day make them a terrour to themſelves for their evil deeds, and ei<g ref="char:EOLhyphen"/>ther take them away here, or caſt them off here<g ref="char:EOLhyphen"/>after, for their not taking away the wicked, where<g ref="char:EOLhyphen"/>by the Throne might be eſtabliſhed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
